@@ -1,0 +1,1 @@
+Andy Gutierrez/Downloads/qrcode.png')
